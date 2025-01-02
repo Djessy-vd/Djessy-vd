@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Djessy van Drunen</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djessy-vd&label=Profile%20views&color=0e75b6&style=flat" alt="djessy-vd" /> </p>
 
-[![Discord Presence](https://api.lanyard.rest/v1/users/719937666715615304)](https://discord.com/users/719937666715615304)
+[![Discord Presence](https://lanyard.cnrad.dev/api/:719937666715615304)](https://discord.com/users/:719937666715615304)
 
 - 🌱 I’m currently learning **Laravel**
 
