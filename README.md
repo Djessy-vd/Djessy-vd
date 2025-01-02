@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Djessy van Drunen</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djessy-vd&label=Profile%20views&color=0e75b6&style=flat" alt="djessy-vd" /> </p>
 
-https://api.lanyard.rest/v1/users/719937666715615304
-
 - 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [https://djessy.eu](https://djessy.eu)
@@ -14,6 +12,7 @@ https://api.lanyard.rest/v1/users/719937666715615304
 <a href="https://dev.to/djessyvd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="djessyvd" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/djessy.vd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="djessy.vd" height="30" width="40" /></a>
 <a href="https://discord.gg/dvd-com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dvd-com" height="30" width="40" /></a>
+<a href="https://api.lanyard.rest/v1/users/719937666715615304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/link.svg" alt="laynyard" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
