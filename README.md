@@ -3,7 +3,7 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/719937666715615304)](https://discord.com/users/719937666715615304)
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **web-development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Djessy-vd?tab=repositories](https://github.com/Djessy-vd?tab=repositories)
 
