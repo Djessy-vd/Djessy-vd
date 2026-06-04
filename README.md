@@ -3,11 +3,11 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/719937666715615304)](https://discord.com/users/719937666715615304)
 
-- 🌱 I’m currently studying a degree in **software-development**
+- 🌱 I’m currently studying for a degree in **software-development**
 
 - 👨‍💻 All of my projects are available at [https://djessy.eu](https://djessy.eu)
 
-- 💬 I’m currently learning **gsap**
+- 💬 I’m currently learning **gsap** 
 
 - 📫 How to reach me **info@djessy.eu**
 
