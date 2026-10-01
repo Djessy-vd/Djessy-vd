@@ -110,6 +110,5 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=djessy-vd&show_icons=true&hide_border=true&theme=transparent" alt="Djessy's GitHub stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djessy-vd&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
 </p>
