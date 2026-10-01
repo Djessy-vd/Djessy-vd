@@ -7,9 +7,11 @@
 
 - 🌱 I’m currently learning **Gsap**
 
-- 👨‍💻 All of my projects are available at [https://djessy.eu](https://djessy.eu)
+- 👨‍💻 All of my projects are available at [Djessy.eu](https://djessy.eu)
 
 - 📫 How to reach me **info@djessy.eu**
+ 
+- 📜 certificates that I have  [Credly](https://www.credly.com/users/djessy-van-drunen)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
